@@ -1,0 +1,17 @@
+aliases:
+- production
+creation_timestamp: 1744441652044
+current_stage: Archived
+description: Water Potability Version 2
+last_updated_timestamp: 1744442751927
+name: water_potability_rf
+run_id: e6e1b68ab5ec44b892d190a06843e084
+run_link: ''
+source: mlflow-artifacts:/863203015088888540/e6e1b68ab5ec44b892d190a06843e084/artifacts/Best
+  Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/863203015088888540/e6e1b68ab5ec44b892d190a06843e084/artifacts/Best
+  Model
+user_id: null
+version: 2

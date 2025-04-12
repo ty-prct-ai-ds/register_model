@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/863203015088888540/6ea7ac576dd2473c983bbcba1d8e0caf/artifacts
+end_time: 1744441122777
+entry_point_name: ''
+experiment_id: '863203015088888540'
+lifecycle_stage: active
+run_id: 6ea7ac576dd2473c983bbcba1d8e0caf
+run_name: Combination 25
+run_uuid: 6ea7ac576dd2473c983bbcba1d8e0caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744441122714
+status: 3
+tags: []
+user_id: Shaikh Irfan

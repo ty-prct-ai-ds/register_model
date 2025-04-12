@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/863203015088888540/4b8e8dcbcb7241fd8b2f7cd502457b69/artifacts
+end_time: 1744442065528
+entry_point_name: ''
+experiment_id: '863203015088888540'
+lifecycle_stage: active
+run_id: 4b8e8dcbcb7241fd8b2f7cd502457b69
+run_name: Random Forest Tuning
+run_uuid: 4b8e8dcbcb7241fd8b2f7cd502457b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744442006763
+status: 3
+tags: []
+user_id: Shaikh Irfan
